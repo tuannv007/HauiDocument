@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HauiDocument</string>
+    <string name="title_register_account"><u>Register Account</u></string>
+    <string name="title_haui_document">Hệ thống quản lý tài liệu trường Đại Học Công Nghiệp Hà Nội</string>
+</resources>
